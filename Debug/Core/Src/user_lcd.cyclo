@@ -1,0 +1,3 @@
+../Core/Src/user_lcd.c:9:6:LCD_init	1
+../Core/Src/user_lcd.c:19:6:LCD	1
+../Core/Src/user_lcd.c:56:6:LCD_str	2

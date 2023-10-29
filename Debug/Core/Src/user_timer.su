@@ -1,0 +1,4 @@
+../Core/Src/user_timer.c:14:6:set_timer1	16	static
+../Core/Src/user_timer.c:23:6:set_timer2	16	static
+../Core/Src/user_timer.c:32:6:set_timer3	16	static
+../Core/Src/user_timer.c:37:6:timer_run	4	static
